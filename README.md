@@ -1,3 +1,5 @@
+# Password Generator
+
 ## What It Does
 This package allows you to generate a random password string from a list of words.
 

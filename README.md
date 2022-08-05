@@ -23,4 +23,4 @@ composer require timgreenwood/password-generator`
 ```
 
 ## Licence
-The MIT Licence (MIT). Please see the [LICENSE.md](LICENSE.md) file for more information.
+The MIT Licence (MIT). Please see the [LICENSE](LICENSE) file for more information.

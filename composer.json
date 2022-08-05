@@ -1,7 +1,6 @@
 {
   "name": "timgreenwood/password-generator",
   "description": "Generates a random password string from a list of words for Laravel",
-  "type": "project",
   "license": "MIT",
   "autoload": {
     "psr-4": {

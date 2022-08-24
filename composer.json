@@ -4,7 +4,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Timgreenwood\\PasswordGenerator\\": "src/"
+      "Timgreenwood\\PasswordGenerator\\": "src"
     }
   },
   "authors": [
@@ -18,5 +18,12 @@
     "php": "^8.0",
     "illuminate/support": "^9.0"
   },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Timgreenwood\\PasswordGenerator\\PasswordServiceProvider"
+            ]
+        }
+    },
   "prefer-stable": true
 }

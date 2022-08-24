@@ -1,4 +1,4 @@
-<?php
+<?php declare(strict_types=1);
 
 namespace Timgreenwood\PasswordGenerator;
 
@@ -12,7 +12,7 @@ class PasswordGenerator
      *
      * @param int count of the number of words required
      * @param string seperator string
-     * @return string 
+     * @return string
      */
     public function generate(int $count = 4, string $separator = '-'): string
     {
